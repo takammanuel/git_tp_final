@@ -1,7 +1,9 @@
 h1 {
-    color: red;
+    color: #ff0000;
+    text-decoration: underline;
 }
 
 h2 {
-    color: green;
+    color: #008000;
+    font-style: italic;
 }
